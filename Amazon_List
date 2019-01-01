@@ -1,33 +1,33 @@
-amazon-adsystem.com
-amazon-cornerstone.com
-amazonily.com
-assoc-amazon.ca
-assoc-amazon.co.uk
-assoc-amazon.com
-assoc-amazon.de
-assoc-amazon.es
-assoc-amazon.fr
-assoc-amazon.it
-aan.amazon.com
-aax-eu.amazon-adsystem.com
-aax-us-east.amazon-adsystem.com
-aax-us-pdx.amazon-adsystem.com
-adagiobanner.s3.amazonaws.com
-dra.amazon-adsystem.com
-fls-na.amazon.com
-ir-na.amazon-adsystem.com
-mobileanalytics.us-east-1.amazonaws.com
-mobileanalytics.us-east-2.amazonaws.com
-mobileanalytics.us-west-1.amazonaws.com
-mobileanalytics.us-west-2.amazonaws.com
-rcm-images.amazon.com
-rcm-it.amazon.it
-sdogiu.bestamazontips.com
-uedata.amazon.com
-aax-us-west.amazon-adsystem.com
-admarvel.s3.amazonaws.com
-campaign-tapad.s3.amazonaws.com
-html5adkit.plusmo.s3.amazonaws.com
-iacpromotion.s3.amazonaws.com
-inneractive-assets.s3.amazonaws.com
-strikeadcdn.s3.amazonaws.com
+local-data: "amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "amazon-cornerstone.com 60 IN A 10.10.10.1"
+local-data: "amazonily.com 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.ca 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.co.uk 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.com 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.de 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.es 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.fr 60 IN A 10.10.10.1"
+local-data: "assoc-amazon.it 60 IN A 10.10.10.1"
+local-data: "aan.amazon.com 60 IN A 10.10.10.1"
+local-data: "aax-eu.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "aax-us-east.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "aax-us-pdx.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "adagiobanner.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "dra.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "fls-na.amazon.com 60 IN A 10.10.10.1"
+local-data: "ir-na.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "mobileanalytics.us-east-1.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "mobileanalytics.us-east-2.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "mobileanalytics.us-west-1.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "mobileanalytics.us-west-2.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "rcm-images.amazon.com 60 IN A 10.10.10.1"
+local-data: "rcm-it.amazon.it 60 IN A 10.10.10.1"
+local-data: "sdogiu.bestamazontips.com 60 IN A 10.10.10.1"
+local-data: "uedata.amazon.com 60 IN A 10.10.10.1"
+local-data: "aax-us-west.amazon-adsystem.com 60 IN A 10.10.10.1"
+local-data: "admarvel.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "campaign-tapad.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "html5adkit.plusmo.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "iacpromotion.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "inneractive-assets.s3.amazonaws.com 60 IN A 10.10.10.1"
+local-data: "strikeadcdn.s3.amazonaws.com 60 IN A 10.10.10.1"
